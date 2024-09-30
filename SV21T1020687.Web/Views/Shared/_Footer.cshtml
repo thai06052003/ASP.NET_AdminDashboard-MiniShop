@@ -1,0 +1,11 @@
+﻿@{
+    var name = User.GetUserData()?.DisplayName != null ? User.GetUserData().DisplayName : "Đinh Xuân Thái";
+    //var name = NullReferenceException;
+}
+<footer class="main-footer">
+    <div class="pull-right hidden-xs">
+        <b>Version</b> 1.0
+    </div>
+    <strong>Copyright &copy; 2024 <a href="https://adminlte.io">@name</a>.</strong> All rights
+    reserved.
+</footer>

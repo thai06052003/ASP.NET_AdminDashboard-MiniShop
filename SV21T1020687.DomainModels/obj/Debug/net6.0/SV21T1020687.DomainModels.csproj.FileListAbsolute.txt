@@ -1,0 +1,11 @@
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\bin\Debug\net6.0\SV21T1020687.DomainModels.deps.json
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\bin\Debug\net6.0\SV21T1020687.DomainModels.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\bin\Debug\net6.0\SV21T1020687.DomainModels.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.AssemblyInfoInputs.cache
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.AssemblyInfo.cs
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.csproj.CoreCompileInputs.cache
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\refint\SV21T1020687.DomainModels.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\SV21T1020687.DomainModels.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.DomainModels\obj\Debug\net6.0\ref\SV21T1020687.DomainModels.dll

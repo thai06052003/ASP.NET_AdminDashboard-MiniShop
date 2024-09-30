@@ -1,0 +1,17 @@
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.BusinessLayers.deps.json
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.BusinessLayers.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.BusinessLayers.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.DataLayers.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.DomainModels.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.DataLayers.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\bin\Debug\net6.0\SV21T1020687.DomainModels.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.csproj.AssemblyReference.cache
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.AssemblyInfoInputs.cache
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.AssemblyInfo.cs
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.csproj.CopyComplete
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\refint\SV21T1020687.BusinessLayers.dll
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\SV21T1020687.BusinessLayers.pdb
+D:\thai\Visual Studio\AminLTE\SV21T1020687\SV21T1020687.BusinessLayers\obj\Debug\net6.0\ref\SV21T1020687.BusinessLayers.dll

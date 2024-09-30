@@ -1,0 +1,36 @@
+﻿@model Shipper
+@{
+    ViewBag.Title = "Xóa người giao hàng";
+}
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Shipper/Delete/@Model.ShipperId" method="post">
+            <div class="form-group">
+                <label>Tên Người giao hàng:</label>
+                <p class="form-control-static">@Model.ShipperName</p>
+            </div>
+            <div class="form-group">
+                <label>Điện thoại:</label>
+                <p class="form-control-static">@Model.Phone</p>
+
+
+            <div class="form-group text-right">
+                    @if (ViewBag.AllowDelete)
+                    {
+                        <button type="submit" class="btn btn-danger">
+                            <i class="fa fa-trash"></i>
+                            Xóa dữ liệu
+                        </button>
+                    }
+                    else
+                    {
+                        <span style="color:#f00">Không được xóa người giao hàng</span>
+                    }
+
+                    <a href="~/Customer" class="btn btn-primary">
+                        Quay lại
+                    </a>
+            </div>
+        </form>
+    </div>
+</div>
